@@ -1,0 +1,25 @@
+*/
+body{
+    background-image: "grey_wash_wall.png";
+
+}
+h1{
+    /* background-image: "grey_wash_wall.png"; */
+}
+header {
+    text-align: center;
+    background: teal;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 25px;
+}
+footer {
+    text-align: center;
+    padding: 50px;
+    background-image: url("grey_wash_wall.png");
+    color: white;
+}
+div {
+    width: 200px;
+    
+}
